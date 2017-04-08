@@ -1,0 +1,123 @@
+.pages{
+    height: 1024px;
+    width: auto;
+    position: relative;
+    top:0px;
+}
+.page_content{
+    position: absolute;
+    top: 260px;
+    left: 150px;
+}
+.page_content p{
+    font-family: "Microsoft YaHei";
+    font-size: 69px;
+    color: #ffffff;
+}
+
+.header_page{
+    background-image: url("../img/header_index_bg_1.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: auto;
+    height: 800px;
+    margin: 0px 0px 0px;
+}
+.content{
+    position: relative;
+    top:22%;
+    left: 150px;
+    font-family: "Microsoft YaHei";
+}
+.content h1{
+    font-size:69px;
+    color: #ffffff;
+}
+.content p{
+    font-size: 48px;
+    color: #ffffff;
+    margin-top: -35px;
+    line-height:1.2em;
+}
+
+.pages_about{
+}
+.page_about_inf{
+    background-image: url("../img/about/inf_bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: auto;
+    height: 800px;
+    margin: 140px 0px 0px;
+}
+.page_about_name{
+    background: url("../img/about/BST_icon.png") no-repeat;
+    height: 46px;
+    width: 569px;
+    position: relative;
+    top: 311px;
+    left: 147px;
+}
+.page_about_p{
+    background: url("../img/about/bst_inf_p.png") no-repeat;
+    height: 121px;
+    width: 670px;
+    position: relative;
+    top: 360px;
+    left: 39px;
+}
+.page_about_logo{
+    background: url("../img/about/about_logo.png") no-repeat;
+    height: 430px;
+    width: 413px;
+    position: relative;
+    top: 20px;
+    left: 1000px;
+}
+
+.pages_timer{
+    margin-top: -180px;
+}
+.pages_timer .page_timer_bg{
+    background-image: url("../img/about/timer_bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: auto;
+    height: 800px;
+    margin: 140px 0px 0px;
+}
+.pages_timer .page_timer_p{
+    background: url("../img/about/timer_time.png") no-repeat;
+    height: 712px;
+    width: 1103px;
+    position: relative;
+    top: 0px;
+    left: 300px;
+}
+
+.pages_spirit{
+}
+.pages_spirit .page_spirit_bg{
+    background-image: url("../img/about/spirit_bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: auto;
+    height: 800px;
+    margin: 0px 0px 0px;
+}
+.pages_spirit .page_spirit_p{
+    background: url("../img/about/spirit_p.png") no-repeat;
+    height: 452px;
+    width: 1247px;
+    position: relative;
+    top: 70px;
+    left: 180px;
+}
+.page_team_bg{
+    background-image: url("../img/about/team_bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: auto;
+    height: 800px;
+    margin: 0px 0px 0px;
+}

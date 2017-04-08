@@ -1,0 +1,53 @@
+@charset "UTF-8";
+.nav_{
+    position: absolute;
+    top:10px;
+    left: 8%;
+}
+.nav_logo{
+	/*margin: 10px 115px;*/
+}
+.nav_list{
+    position: relative;
+    top: -63px;
+    left: 75%;
+}
+.nav_list ul li{
+	display: block;
+	height: 55px;
+	float: left;
+	list-style-type: none;
+}
+.nav_list ul li a{
+	text-decoration: none;
+	padding-right: 68px;
+	font-family: "Microsoft YaHei";
+	color: #ffffff;
+    font-size: 24px;
+}
+.nav_list ul li a:hover{
+    color: #d1d1d1;
+}
+
+.joinus{
+    background-image: url("../img/JOINUS_icon_button.png");
+    background-repeat: no-repeat;
+    width: 156px;
+    height: auto;
+    margin: -10px;
+}
+
+
+.footer_joinus{
+    background: url("../img/list_bg.png");
+    height: 180px;
+    margin: 0px 0px 0px
+}
+.footer_joinus a img{
+    margin: 55px 500px;
+}
+.footer{
+    background: url("../img/footer_bg.png");
+    height: 120px;
+    margin: 0px 0px 0px;
+}

@@ -1,0 +1,122 @@
+.pages{
+    height: 1024px;
+    width: auto;
+    position: relative;
+    top:0px;
+}
+.page_content{
+    position: absolute;
+    top: 260px;
+    left: 150px;
+}
+.page_content p{
+    font-family: "Microsoft YaHei";
+    font-size: 69px;
+    color: #ffffff;
+}
+.header{
+}
+.header_page{
+    background-image: url("../img/team/Header_team_bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: auto;
+    height: 800px;
+    margin: 0px 0px 0px;
+}
+.content{
+    position: absolute;
+    top:45%;
+    left: 150px;
+    font-family: "Microsoft YaHei";
+}
+.content h1{
+    font-size:69px;
+    color: #ffffff;
+}
+.content p{
+    font-size: 48px;
+    color: #ffffff;
+    margin-top: -35px;
+    line-height:1.2em;
+}
+.header_page .header_page_icon_1{
+    background: url("../img/header_index_bg_2_icon.png") no-repeat;
+    height: 495px;
+    width: 336px;
+    position:absolute;
+    top:305px;
+    left: 1050px;
+}
+.team_list{
+    background: url("../img/list_bg.png") repeat-x;
+    height: 224px;
+    margin: -16px 0px 0px 0px ;
+}
+.team_list ul li{
+    list-style-type: none;
+    float: left;
+    padding: 20px 140px;
+}
+.Pages_app_bg{
+    background-image: url("../img/team/pages_Applica_bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: auto;
+    height: 800px;
+    margin: 0px 0px 0px;
+}
+.app_list{
+    background: url("../img/list_bg.png") repeat-x;
+    height: 224px;
+    margin: -16px px 0px px ;
+}
+.app_list ul li{
+    list-style-type: none;
+    float: left;
+    margin: 20px 205px;
+}
+.fly_list{
+    background: url("../img/list_bg.png") repeat-x;
+    height: 224px;
+    margin: -16px 0px 0px 0px ;
+}
+.fly_list ul li{
+    list-style-type: none;
+    float: left;
+    margin: 20px 195px;
+}
+.Pages_fly_bg{
+    background-image: url("../img/team/pages_fly_bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: auto;
+    height: 800px;
+    margin: 0px 0px 0px;
+}
+.Pages_smart_bg{
+    background-image: url("../img/team/pages_smart_bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: auto;
+    height: 800px;
+    margin: 0px 0px 0px;
+}
+.elct_list{
+    background: url("../img/list_bg.png") repeat-x;
+    height: 224px;
+    margin: -16px 0px 0px 0px ;
+}
+.elct_list ul li{
+    list-style-type: none;
+    float: left;
+    margin: 20px 195px;
+}
+.Pages_elct_bg{
+    background-image: url("../img/team/pages_elect_bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: auto;
+    height: 800px;
+    margin: 0px 0px 0px;
+}

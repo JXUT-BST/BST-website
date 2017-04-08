@@ -1,0 +1,161 @@
+body{
+    background-color: #F5F5F5;
+}
+.pages{
+    height: 800px;
+    width: auto;
+    position: relative;
+    top:0px;
+}
+.pages .page_content{
+    position: absolute;
+    top: 260px;
+    left: 150px;
+}
+.page_content p{
+    font-family: "Microsoft YaHei";
+    font-size: 69px;
+    color: #ffffff;
+}
+.header{
+}
+.header_page{
+    background-image: url("../img/joinus/Header_join_bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: auto;
+    height: 800px;
+    margin: 0px 0px 0px;
+}
+.content{
+    position: absolute;
+    top:25%;
+    left: 150px;
+    font-family: "Microsoft YaHei";
+}
+.content h1{
+    font-size:69px;
+    color: #ffffff;
+}
+.content p{
+    font-size: 48px;
+    color: #ffffff;
+    margin-top: 0px;
+    line-height:1.2em;
+}
+.header_page .header_page_icon_1{
+    background: url("../img/header_index_bg_2_icon.png") no-repeat;
+    height: 495px;
+    width: 336px;
+    position:absolute;
+    top:305px;
+    left: 1050px;
+}
+.join_list{
+    background: url("../img/list_bg.png") repeat-x;
+    height: 224px;
+    margin: -16px 0px 0px 0px ;
+}
+.join_list ul li{
+    display: block;
+    list-style-type: none;
+    float: left;
+    padding: 45px 180px;
+}
+.pages_{
+    height:800px;
+    width: auto;
+}
+.page_1{
+    background: url("../img/header_index_bg_1.png") no-repeat;
+    background-size: 100%;
+    width: auto;
+    height: 800px;
+    margin: -46px 0px 0px;
+}
+
+.page_1_content{
+    position: relative;
+    top:35%;
+    left: 150px;
+    font-family: "Microsoft YaHei";
+}
+.page_1_content h1{
+    font-size:69px;
+    color: #ffffff;
+}
+.page_1_content p{
+    font-size: 48px;
+    color: #ffffff;
+    margin-top: -35px;
+    line-height:1.2em;
+}
+.pages_ .page_1_icon{
+    background: url("../img/header_index_bg_1_icon.png") no-repeat;
+    height: 657px;
+    width: 722px;
+    position:relative;
+    top:-120px;
+    left: 850px;
+}
+.page_2{
+    background: url("../img/interest_bg.png") no-repeat;
+    background-size: 100%;
+    width: auto;
+    height: 800px;
+    margin: 0px 0px 0px;
+}
+.page_2_icon{
+    background: url("../img/lab_bg_icon.png") no-repeat;
+    height: 575px;
+    width: 558px;
+    position:relative;
+    top:225px;
+    left: 930px;
+}
+.page_3{
+    background: url("../img/honor_bg.png") no-repeat;
+    background-size: 100%;
+    width: auto;
+    height: 800px;
+    margin: 0px 0px 0px;
+}
+.page_3_icon{
+    background: url("../img/honor_icon.png") no-repeat;
+    height: 575px;
+    width: 575px;
+    position:relative;
+    top:225px;
+    left: 930px;
+}
+.page_4{
+    background: url("../img/joinus/vido_bg.png") no-repeat;
+    background-size: 100%;
+    width: auto;
+    height: 800px;
+    margin: 0px 0px 0px;
+}
+.page_4_vido{
+    display: block;
+    position: relative;
+    top:40px;
+    left: 200px;
+}
+.page_5{
+    background: url("../img/joinus/join_bg.png") no-repeat;
+    background-size: 100%;
+    width: auto;
+    height: 800px;
+}
+.page_5_content{
+    position: absolute;
+    top:350px;
+    left: 430px;
+    font-family: "Microsoft YaHei";
+}
+.page_5_content p{
+    font-size: 100px;
+    color: #ffffff;
+    margin-top: -35px;
+    /*line-height:1.2em;*/
+}

@@ -1,0 +1,151 @@
+@charset "UTF-8";
+.pages{
+    height: 1024px;
+    width: auto;
+    position: relative;
+    top:0px;
+}
+.page_content{
+     position: absolute;
+     top: 260px;
+     left: 150px;
+ }
+.page_content p{
+    font-family: "Microsoft YaHei";
+    font-size: 69px;
+    color: #ffffff;
+}
+
+.header_page{
+    background-image: url("../img/header_index_bg_1.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: auto;
+    height: 800px;
+    margin: 0px 0px 0px;
+}
+.content{
+    position: absolute;
+    top:22%;
+    left: 150px;
+    font-family: "Microsoft YaHei";
+}
+.content h1{
+    font-size:69px;
+    color: #ffffff;
+}
+.content p{
+    font-size: 48px;
+    color: #ffffff;
+    margin-top: -35px;
+    line-height:1.2em;
+}
+.header_page .header_page_icon_1{
+    background: url("../img/header_index_bg_1_icon.png");
+    height: 657px;
+    width: 722px;
+    position:absolute;
+    top:135px;
+    left: 740px;
+}
+
+
+.pages .bg_team{
+    background-image: url("../img/interest_bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: auto;
+    height: 800px;
+    margin:120px 0px 0px;
+}
+.pages .page_team_icon{
+    background: url("../img/interest_icon.png");
+    height: 495px;
+    width: 336px;
+    position:absolute;
+    top:290px;
+    left: 1050px;
+}
+.team_list{
+    background: url("../img/list_bg.png") repeat-x;
+    height: 224px;
+    margin: -16px 0px 0px -8px ;
+}
+.team_list ul li{
+    list-style-type: none;
+    float: left;
+    padding: 20px 140px;
+}
+.pages .bg_honor{
+    background-image: url("../img/honor_bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: auto;
+    height: 800px;
+    margin: -8px 0px 0px;
+}
+.pages .page_honor_icon{
+    background-image: url("../img/honor_icon.png");
+    height: 575px;
+    width: 575px;
+    position:absolute;
+    top:225px;
+    left: 900px;
+}
+.honor_list{
+    background: url("../img/list_bg.png") repeat-x;
+    height: 224px;
+    margin: -16px 0px 0px -8px ;
+}
+.honor_list ul li{
+    list-style-type: none;
+    float: left;
+    margin: 53px 120px;
+}
+.pages .bg_lab{
+    background-image: url("../img/lab_bg_1.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: auto;
+    height: 800px;
+    margin: -8px 0px 0px;
+}
+.pages .page_lab_icon{
+    background-image: url("../img/lab_bg_icon.png");
+    height: 575px;
+    width: 558px;
+    position:absolute;
+    top:225px;
+    left: 900px;
+}
+.page_active_content{
+    font-size: 38px;
+    font-family: "Microsoft YaHei";
+    color: #ffffff;
+}
+.pages .bg_active{
+    background-image: url("../img/activity_bg.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: auto;
+    height: 800px;
+    margin: -8px 0px 0px;
+}
+.active_list{
+    background: url("../img/list_bg.png") repeat-x;
+    height: 224px;
+    margin: -16px 0px 0px -8px ;
+}
+.active_list ul li{
+    list-style-type:none;
+    float: left;
+    margin: 53px 260px;
+}
+.pages .page_active_icon{
+    background-image: url("../img/activity_icon.png");
+    height: 575px;
+    width: 558px;
+    position:absolute;
+    top:225px;
+    left: 900px;
+}
